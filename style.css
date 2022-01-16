@@ -1,0 +1,18 @@
+main {
+    margin: 120px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu div {
+    margin: 30px;
+}
