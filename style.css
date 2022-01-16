@@ -54,3 +54,12 @@ main {
 
 
 /* company section starts here  */
+
+.company {
+    margin-top: 70px;
+    margin-left: 60px;
+}
+
+.company img {
+    margin: 20px;
+}
