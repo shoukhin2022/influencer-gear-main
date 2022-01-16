@@ -3,7 +3,7 @@ main {
     font-family: 'Poppins', sans-serif;
 }
 
-.banner {
+.top-banner {
     display: flex;
     justify-content: space-between;
 }
