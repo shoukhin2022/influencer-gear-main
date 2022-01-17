@@ -154,3 +154,16 @@ footer .media {
     padding-top: 10px;
     padding-bottom: 30px;
 }
+
+
+/* media queries  */
+
+
+/* For Mobile devices 
+  */
+
+@media only screen and (max-width: 688px) {
+    .top-banner {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
