@@ -65,4 +65,25 @@ main {
     margin: 20px;
 }
 
-.products {}
+
+/* popular products styles start here  */
+
+.popular-coll {
+    font-size: 12px;
+}
+
+.popular-coll h2 {
+    margin-left: 390px;
+}
+
+.products {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 40px;
+    margin-top: 30px;
+}
+
+.products .product img {
+    width: 250px;
+    height: 250px;
+}
