@@ -1,6 +1,11 @@
 main {
     margin: 120px;
     font-family: 'Poppins', sans-serif;
+    background-color: rgb(241, 237, 228);
+}
+
+section {
+    margin-left: 20px;
 }
 
 
