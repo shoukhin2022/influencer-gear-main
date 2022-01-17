@@ -1,11 +1,13 @@
 main {
-    margin: 120px;
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-right: 30px;
     font-family: 'Poppins', sans-serif;
     background-color: whitesmoke;
 }
 
 section {
-    margin-left: 20px;
+    margin-left: 50px;
 }
 
 
@@ -22,7 +24,8 @@ section {
 }
 
 .menu div {
-    margin: 30px;
+    margin-top: 20px;
+    margin-left: 10px;
 }
 
 .menu div a {
@@ -102,9 +105,52 @@ div a {
     display: flex;
     justify-content: flex-end;
     color: rgb(145, 33, 145);
+    margin-right: 60px;
+    ;
 }
 
 div a i {
     padding-top: 4px;
     padding-left: 5px;
+}
+
+
+/* personal choice section before footer starts here  */
+
+.gadgets img {
+    width: 400px;
+    height: 300px;
+}
+
+.gift {
+    display: flex;
+    margin-top: 100px;
+}
+
+.gift-icon {
+    color: rgb(43, 28, 58);
+    font-size: 90px;
+}
+
+.announcement {
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 60px;
+}
+
+
+/* footer section starts here  */
+
+footer {
+    background-color: rgb(43, 28, 58);
+    margin-left: 80px;
+    margin-top: 50px;
+    margin-right: 30px;
+}
+
+footer .media {
+    text-align: center;
+    color: rgb(228, 207, 207);
+    padding-top: 10px;
+    padding-bottom: 30px;
 }
