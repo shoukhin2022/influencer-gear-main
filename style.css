@@ -22,6 +22,7 @@ main {
 
 .menu div a {
     text-decoration: none;
+    color: rgb(19, 15, 15);
 }
 
 
@@ -63,3 +64,5 @@ main {
 .company img {
     margin: 20px;
 }
+
+.products {}
